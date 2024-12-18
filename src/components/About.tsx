@@ -6,7 +6,7 @@ export default function About() {
     <section id="about" className="py-20 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">About Accman Business College</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-4">About Accman Business School</h2>
           <p className="text-xl text-gray-600">Shaping minds and building futures since 1985</p>
         </div>
 
